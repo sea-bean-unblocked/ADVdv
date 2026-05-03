@@ -5,7 +5,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 // ==========================================
 
 // 1. Paste your Discord Bot Token inside the quotes below
-const DISCORD_TOKEN = "MTUwMDM1MTQzNTQ1ODYxMzI4OA.GBwldf.8oE6XgGS2XerGmFDFyHTMNkdEMJJifCy2xx3_0";
+const DISCORD_TOKEN = "MTUwMDM1MTQzNTQ1ODYxMzI4OA.GQNz6l.DrqUynUeErHXekwdj4GPK8fK_1ME2ybcM6xeFo";
 
 // 2. Paste your Netlify Personal Access Token inside the quotes below
 const NETLIFY_TOKEN = "nfp_hwtZrXHQP9iKvEYAbXAkEhgy7UfafPnY769e";
